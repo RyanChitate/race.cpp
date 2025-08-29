@@ -26,18 +26,7 @@ Build and Run:
     ./race 30
 
 - Replace 30 with the desired track length.  
-- The race will display step by step until one car wins.  
-
-----------------------
-Example Output
-----------------------
-A-----------------------------
--B----------------------------
-==============================
------A------------------------
-----B-------------------------
-==============================
-Car A wins!
+- The race will display step by step until one car wins.
 
 ----------------------
 Future Enhancements
